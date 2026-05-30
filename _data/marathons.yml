@@ -12,3 +12,69 @@
   location: "Boston, MA"
   date: "April 21, 2025"
   time: "3:26:51"
+
+- race: "Chicago Marathon"
+  location: "Chicago, IL"
+  date: "October 13, 2024"
+  time: "3:07:11"
+
+- race: "Boston Marathon"
+  location: "Boston, MA"
+  date: "April 15, 2024"
+  time: "3:21:56"
+
+- race: "New York City Marathon"
+  location: "New York City, NY"
+  date: "November 5, 2023"
+  time: "3:13:11"
+
+- race: "Chicago Marathon"
+  location: "Chicago, IL"
+  date: "October 8, 2023"
+  time: "3:11:07"
+
+- race: "Grandma's Marathon"
+  location: "Duluth, MN"
+  date: "June 17, 2023"
+  time: "3:13:11"
+
+- race: "Boston Marathon, 127th"
+  location: "Boston, MA"
+  date: "April 17, 2023"
+  time: "3:12:55"
+
+- race: "IMT Des Moines Marathon"
+  location: "Des Moines, IA"
+  date: "October 16, 2022"
+  time: "3:16:17"
+
+- race: "Revel Rockies Marathon"
+  location: "Denver, CO"
+  date: "June 4, 2022"
+  time: "🎉 2:56:07"
+
+- race: "Boston Marathon, 126th"
+  location: "Boston, MA"
+  date: "April 18, 2022"
+  time: "3:06:29"
+
+- race: "New Years Double Marathon"
+  location: "Allen, TX"
+  date: "December 31, 2021"
+  time: "3:39:29"
+
+- race: "Chicago Marathon"
+  location: "Chicago, IL"
+  date: "October 10, 2021"
+  time: "3:08:13"
+
+- race: "Utah Valley Marathon"
+  location: "Provo, UT"
+  date: "June 5, 2021"
+  time: "3:07:24"
+
+- race: "Steamtown Marathon"
+  location: "Scranton, PA"
+  date: "October 13, 2019"
+  time: "3:04:12"
+```
