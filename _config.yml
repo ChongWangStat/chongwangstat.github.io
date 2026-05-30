@@ -24,7 +24,7 @@ repository               : "ChongWangStat/ChongWangStat.github.io"
 author:
   # Biographic information
   avatar           : "Head_rockies.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Chong Wang"
   pronouns         : "he/him"  
   bio              : "Professor in Statistics"
   location         : "Ames, Iowa"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
