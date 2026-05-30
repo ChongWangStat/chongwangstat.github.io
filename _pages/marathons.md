@@ -7,10 +7,25 @@ author_profile: true
 
 # 🏃🏻 Marathons
 
-|                                           No. | Race                     | Location                | Date                | Time                |
-| --------------------------------------------: | ------------------------ | ----------------------- | ------------------- | ------------------- |
-| {% assign total = site.data.marathons.size %} |                          |                         |                     |                     |
-|     {% for marathon in site.data.marathons %} |                          |                         |                     |                     |
-|                      {% assign number = total | minus: forloop.index0 %} |                         |                     |                     |
-|                                  {{ number }} | {{ marathon.race }}      | {{ marathon.location }} | {{ marathon.date }} | {{ marathon.time }} |
-|                                  {% endfor %} |                          |                         |                     |                     |
+<table>
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Race</th>
+      <th>Location</th>
+      <th>Date</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for marathon in site.data.marathons %}
+      <tr>
+        <td>{{ forloop.rindex }}</td>
+        <td>{{ marathon.race }}</td>
+        <td>{{ marathon.location }}</td>
+        <td>{{ marathon.date }}</td>
+        <td>{{ marathon.time }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
