@@ -10,7 +10,7 @@ redirect_from:
 ## Position
 
 Professor, Department of Veterinary Diagnostic and Production Animal Medicine  
-Professor, Department of Statistics
+Professor, Department of Statistics 
 Iowa State University
 
 ## Research Interests
