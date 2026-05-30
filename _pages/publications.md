@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
-
 Peer-reviewed journal articles. An asterisk (*) indicates a Wang student.
 
 <div class="publications-list">
