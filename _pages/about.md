@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Position
-
 Professor  
 Department of Veterinary Diagnostic and Production Animal Medicine  
 Department of Statistics  
