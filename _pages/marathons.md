@@ -3,6 +3,7 @@ title: "Marathons"
 permalink: /marathons/
 author_profile: true
 ---
+
 # 🏃🏻 Marathons
 
 <table>
@@ -22,7 +23,13 @@ author_profile: true
         <td>{{ marathon.race }}</td>
         <td>{{ marathon.location }}</td>
         <td>{{ marathon.date }}</td>
-        <td>{{ marathon.time }}</td>
+        <td>
+          {% if marathon.result_url and marathon.result_url != "" %}
+            <a href="{{ marathon.result_url }}" target="_blank" rel="noopener noreferrer">{{ marathon.time }}</a>
+          {% else %}
+            {{ marathon.time }}
+          {% endif %}
+        </td>
       </tr>
     {% endfor %}
   </tbody>
