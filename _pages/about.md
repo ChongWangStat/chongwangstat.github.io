@@ -9,8 +9,9 @@ redirect_from:
 
 ## Position
 
-Professor, Department of Veterinary Diagnostic and Production Animal Medicine  
-Professor, Department of Statistics 
+Professor  
+Department of Veterinary Diagnostic and Production Animal Medicine  
+Department of Statistics  
 Iowa State University
 
 ## Research Interests
@@ -18,11 +19,11 @@ Iowa State University
 My latest research interests include the following:
 
 - Systematic Reviews and Network Meta-analyses
-- Design of Animal Disease Surveillance
-- Diagnostic Test Evaluation
-- Machine Learning and Statistical Learning
+- Machine Learning, Statistical Learning, and Artificial Intelligence
 - Biostatistics and Epidemiology
 - Bioinformatics
+- Design of Animal Disease Surveillance
+- Diagnostic Test Evaluation
 
 ## Education
 
