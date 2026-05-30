@@ -14,8 +14,6 @@ Iowa State University
 
 ## Research Interests
 
-My latest research interests include the following:
-
 - Systematic Reviews and Network Meta-analyses
 - Machine Learning, Statistical Learning, and Artificial Intelligence
 - Biostatistics and Epidemiology
@@ -25,6 +23,6 @@ My latest research interests include the following:
 
 ## Education
 
-**Ph.D., Statistics, with minor in Epidemiology**, Cornell University, 2006  
-**M.S., Statistics**, Cornell University, 2004  
-**B.S., Statistics and Probability**, Peking University, 2001
+- Ph.D., Statistics, with minor in Epidemiology, Cornell University, 2006  
+- M.S., Statistics, Cornell University, 2004  
+- B.S., Statistics and Probability, Peking University, 2001
