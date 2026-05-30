@@ -27,8 +27,10 @@ author:
   name             : "Chong Wang"
   pronouns         : "he/him"  
   bio              : "Professor in Statistics"
-  location         : "Ames, Iowa"
-  employer         : "Iowa State University"
+location         : "Ames, Iowa"
+location_url     : "https://www.google.com/maps/place/Ames,+IA"
+employer         : "Iowa State University"
+employer_url     : "https://www.iastate.edu/"
   uri              : # URL
   email            : "chwang at iastate dot edu" 
   strava           : "https://www.strava.com/athletes/41118455"
