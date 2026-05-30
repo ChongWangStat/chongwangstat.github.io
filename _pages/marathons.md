@@ -4,8 +4,6 @@ permalink: /marathons/
 author_profile: true
 ---
 
-# 🏃🏻 Marathons
-
 <table>
   <thead>
     <tr>
