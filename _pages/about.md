@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Dr. Chong Wang"
+title: "Professor in Statistics"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Professor  
 [Department of Veterinary Diagnostic and Production Animal Medicine](https://vetmed.iastate.edu/vdpam/)  
 [Department of Statistics](https://www.stat.iastate.edu/)  
 [Iowa State University](https://www.iastate.edu/)
