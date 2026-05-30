@@ -1,10 +1,8 @@
 ---
-
 title: "Marathons"
 permalink: /marathons/
 author_profile: true
---------------------
-
+---
 # 🏃🏻 Marathons
 
 <table>
