@@ -5,45 +5,45 @@ title: "Dr. Chong Wang"
 author_profile: true
 redirect_from:
 
-- /about/
-- /about.html
+* /about/
+* /about.html
 
 ---
 
-<style>
-.home-hero {
-  background-image:
-    linear-gradient(rgba(255,255,255,0.70), rgba(255,255,255,0.70)),
-    url("/images/boston2026_web.jpg");
+<div style="
+  background-image: linear-gradient(rgba(255,255,255,0.70), rgba(255,255,255,0.70)), url('/images/boston2026_web.jpg');
   background-size: cover;
   background-position: center top;
   background-repeat: no-repeat;
   padding: 2rem;
   border-radius: 12px;
   margin-bottom: 2rem;
-}
-</style>
+">
 
-<div class="home-hero" markdown="1">
+<p>
+Professor<br>
+<a href="https://vetmed.iastate.edu/vdpam/">Department of Veterinary Diagnostic and Production Animal Medicine</a><br>
+<a href="https://www.stat.iastate.edu/">Department of Statistics</a><br>
+<a href="https://www.iastate.edu/">Iowa State University</a>
+</p>
 
-Professor
-[Department of Veterinary Diagnostic and Production Animal Medicine](https://vetmed.iastate.edu/vdpam/)
-[Department of Statistics](https://www.stat.iastate.edu/)
-[Iowa State University](https://www.iastate.edu/)
+<h2>Research Interests</h2>
 
-## Research Interests
+<ul>
+  <li>Systematic Reviews and Network Meta-analyses</li>
+  <li>Machine Learning, Statistical Learning, and Artificial Intelligence</li>
+  <li>Biostatistics and Epidemiology</li>
+  <li>Bioinformatics</li>
+  <li>Design of Animal Disease Surveillance</li>
+  <li>Diagnostic Test Evaluation</li>
+</ul>
 
-- Systematic Reviews and Network Meta-analyses
-- Machine Learning, Statistical Learning, and Artificial Intelligence
-- Biostatistics and Epidemiology
-- Bioinformatics
-- Design of Animal Disease Surveillance
-- Diagnostic Test Evaluation
+<h2>Education</h2>
 
-## Education
-
-- Ph.D., [Statistics](https://stat.cornell.edu/), with minor in [Epidemiology](https://publichealth.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2006
-- M.S., [Statistics](https://stat.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2004
-- B.S., [Statistics and Probability](https://stat.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2001
+<ul>
+  <li>Ph.D., <a href="https://stat.cornell.edu/">Statistics</a>, with minor in <a href="https://publichealth.cornell.edu/">Epidemiology</a>, <a href="https://www.cornell.edu/">Cornell University</a>, 2006</li>
+  <li>M.S., <a href="https://stat.cornell.edu/">Statistics</a>, <a href="https://www.cornell.edu/">Cornell University</a>, 2004</li>
+  <li>B.S., <a href="https://stat.pku.edu.cn/">Statistics and Probability</a>, <a href="https://english.pku.edu.cn/">Peking University</a>, 2001</li>
+</ul>
 
 </div>
