@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/boston2026_web.jpg" alt="Chong Wang running the Boston Marathon" style="float: right; width: 32%; max-width: 320px; min-width: 220px; margin: 0 0 1rem 1.5rem; border-radius: 8px;">
+<img src="/images/boston2026_web.jpg" alt="Chong Wang running the Boston Marathon" style="float: right; width: 32%; max-width: 320px; min-width: 220px; margin: 0 -1 1rem 1.5rem; border-radius: 8px;">
 
 [Department of Veterinary Diagnostic and Production Animal Medicine](https://vetmed.iastate.edu/vdpam/)  
 [Department of Statistics](https://www.stat.iastate.edu/)  
