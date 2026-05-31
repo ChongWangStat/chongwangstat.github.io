@@ -1,10 +1,13 @@
 ---
+
 permalink: /
 title: "Dr. Chong Wang"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+
+- /about/
+- /about.html
+
 ---
 
 <style>
@@ -21,11 +24,11 @@ redirect_from:
 }
 </style>
 
-<div class="home-hero">
+<div class="home-hero" markdown="1">
 
-Professor  
-[Department of Veterinary Diagnostic and Production Animal Medicine](https://vetmed.iastate.edu/vdpam/)  
-[Department of Statistics](https://www.stat.iastate.edu/)  
+Professor
+[Department of Veterinary Diagnostic and Production Animal Medicine](https://vetmed.iastate.edu/vdpam/)
+[Department of Statistics](https://www.stat.iastate.edu/)
 [Iowa State University](https://www.iastate.edu/)
 
 ## Research Interests
@@ -39,8 +42,8 @@ Professor
 
 ## Education
 
-- Ph.D., [Statistics](https://stat.cornell.edu/), with minor in [Epidemiology](https://publichealth.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2006  
-- M.S., [Statistics](https://stat.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2004  
+- Ph.D., [Statistics](https://stat.cornell.edu/), with minor in [Epidemiology](https://publichealth.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2006
+- M.S., [Statistics](https://stat.cornell.edu/), [Cornell University](https://www.cornell.edu/), 2004
 - B.S., [Statistics and Probability](https://stat.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/), 2001
 
 </div>
