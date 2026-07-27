@@ -173,6 +173,14 @@
   doi_url: "https://doi.org/10.3390/ani14020233"
 
 - citation: >-
+    Redifer, C.A., Loy, D.D., Youngs, C.R., Wang, C., Meyer, A.M., Tucker, H.A.,
+    Gunn, P.J. (2023). Evaluation of peripartum supplementation of methionine
+    hydroxy analogue on beef cow-calf performance. Translational Animal Science,
+    7(1):txad046.
+  doi: "10.1093/tas/txad046"
+  doi_url: "https://doi.org/10.1093/tas/txad046"
+
+- citation: >-
     *Ye, F., Wang, C., O’Connor, A.M. (2023) OssaNMA: An R package for using information from network
     meta-analyses to optimize the power and sample allocation of a new two-arm trial. PLoS ONE 18(12):
     e0296020.
@@ -497,6 +505,15 @@
     Disease, 133:104443.
   doi: "10.1016/j.nbd.2019.03.031"
   doi_url: "https://doi.org/10.1016/j.nbd.2019.03.031"
+
+- citation: >-
+    Dewell, R.D., Millman, S.T., Parsons, R.L., Sadler, L.J., Noffsinger, T.H.,
+    Busby, W.D., Wang, C., Dewell, G.A. (2019). Clinical trial to assess the
+    impact of acclimation and low-stress cattle handling on bovine respiratory
+    disease and performance during the feedyard finishing phase. The Bovine
+    Practitioner, 53(1):71-80.
+  doi: "10.21423/bovine-vol53no1p71-80"
+  doi_url: "https://doi.org/10.21423/bovine-vol53no1p71-80"
 
 - citation: >-
     *Zhao, J., Wang, C., Totton, S.C., Cullen, J.N., O’Connor, A.M. (2019) Reporting and analysis of
@@ -994,6 +1011,13 @@
     Schneider, P.T., Zhang, J., Ramirez, A., Wang, C., Holtkamp, D.J.. (2015). Evaluation of
     disinfection protocols to reduce virus transmission via livestock transport vehicles using model
     trailers and experimental conditions. Journal of Swine Health and Production, 23(6):306–316.
+  doi: ""
+  doi_url: ""
+
+- citation: >-
+    Hepworth-Warren, K.L., Wong, D.M., Hay-Kraus, B.L., Wang, C., *Sun, Y. (2015). Effects of
+    administration of a synthetic low molecular weight/low molar substitution hydroxyethyl starch
+    solution in healthy neonatal foals. Canadian Veterinary Journal, 56(10):1069-1074.
   doi: ""
   doi_url: ""
 
