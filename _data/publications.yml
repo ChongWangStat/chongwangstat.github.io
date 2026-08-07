@@ -1,12 +1,4 @@
 - citation: >-
-    Zhang, Y., Wang, C., and O'Connor, A.M. (2026). NMAforest: An R
-    Package for Generating Forest Plots in Network Meta-Analysis with
-    Decomposition of Direct, Indirect, and Study-Level Evidence
-    Contributions. The R Journal, 18(2), 176-187.
-  doi: "10.32614/RJ-2026-030"
-  doi_url: "https://doi.org/10.32614/RJ-2026-030"
-
-- citation: >-
     Doughan, G.E., Walthart, B.K., Petersen, M.B., Schau, C.E., Skoland, K.J.,
     Brown, J.T., Radke, S.L., Bonnema, J.L., Zhang, D., Wang, C., Karriker,
     L.A. (2026). Impacts on water quality before and after water line cleaning
@@ -879,6 +871,13 @@
     a field BVDV strain. Veterinary Immunology and Immunopathology, 187:20-27.
   doi: "10.1016/j.vetimm.2017.03.003"
   doi_url: "https://doi.org/10.1016/j.vetimm.2017.03.003"
+
+- citation: >-
+    Peters, B.M., Krantz, S.A., Holtkamp, D.J., Wang, C., Galina Pantoja, L. (2016) Reference values for
+    immunocrit ratios to assess maternal antibody uptake in 1-day-old piglets. Journal of Swine Health
+    and Production, 24(1):36-41.
+  doi: "10.54846/jshap/892"
+  doi_url: "https://doi.org/10.54846/jshap/892"
 
 - citation: >-
     Kieves, N., Bergh, M. S., Zellner, E., Wang, C. (2016) Pilot study measuring the effects of
