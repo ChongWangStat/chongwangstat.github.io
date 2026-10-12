@@ -7,9 +7,8 @@
 - race: "Chicago Marathon, 48th"
   location: "Chicago, IL"
   date: "October 11, 2026"
-  time: "Result pending verification"
-  result_url: ""
-  search_url: "https://results.chicagomarathon.com/2026/"
+  time: "View official result"
+  result_url: "https://results.chicagomarathon.com/2026/?content=detail&fpid=search&pid=search&idp=2EFG96382D7EF5&lang=EN_CAP&event=MAR&event_main_group=runner&search%5Bname%5D=wang&search%5Bfirstname%5D=chong&search_event=MAR"
 
 - race: "Boston Marathon, 130th"
   location: "Boston, MA"
