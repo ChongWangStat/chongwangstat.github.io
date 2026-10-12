@@ -24,11 +24,10 @@ author_profile: true
         <td>
           {% if marathon.result_url and marathon.result_url != "" %}
             <a href="{{ marathon.result_url }}" target="_blank" rel="noopener noreferrer">{{ marathon.time }}</a>
+          {% elsif marathon.search_url and marathon.search_url != "" %}
+            <a href="{{ marathon.search_url }}" target="_blank" rel="noopener noreferrer">{{ marathon.time }}</a>
           {% else %}
             {{ marathon.time }}
-          {% endif %}
-          {% if marathon.search_url and marathon.search_url != "" %}
-            <a href="{{ marathon.search_url }}" target="_blank" rel="noopener noreferrer" style="font-size: 0.8em; white-space: nowrap;">(Search results)</a>
           {% endif %}
         </td>
       </tr>
