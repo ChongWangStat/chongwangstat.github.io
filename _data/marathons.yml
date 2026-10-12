@@ -1,14 +1,22 @@
+- race: "Boston Marathon, 131st"
+  location: "Boston, MA"
+  date: "April 19, 2027"
+  time: "Goal: 3:05:00"
+  result_url: ""
+
 - race: "Chicago Marathon, 48th"
   location: "Chicago, IL"
   date: "October 11, 2026"
-  time: "🏃🏻🏃🏻🏃🏻Goal: Breaking 3"
+  time: "Result pending verification"
   result_url: ""
-  
+  search_url: "https://results.chicagomarathon.com/2026/"
+
 - race: "Boston Marathon, 130th"
   location: "Boston, MA"
   date: "April 20, 2026"
   time: "3:43:33"
   result_url: ""
+  search_url: "https://registration.baa.org/2026/cf/Media/iframe_ResultsSearch.cfm?mode=advanced"
 
 - race: "Chicago Marathon, 47th"
   location: "Chicago, IL"
@@ -21,6 +29,7 @@
   date: "April 21, 2025"
   time: "3:26:51"
   result_url: ""
+  search_url: "https://registration.baa.org/2025/cf/Media/iframe_ResultsSearch.cfm?mode=advanced"
 
 - race: "Chicago Marathon, 46th"
   location: "Chicago, IL"
@@ -33,12 +42,14 @@
   date: "April 15, 2024"
   time: "3:21:56"
   result_url: ""
+  search_url: "https://registration.baa.org/2024/cf/Media/iframe_ResultsSearch.cfm"
 
 - race: "New York City Marathon"
   location: "New York City, NY"
   date: "November 5, 2023"
   time: "3:13:11"
   result_url: ""
+  search_url: "https://results.nyrr.org/event/M2023/finishers"
 
 - race: "Chicago Marathon, 45th"
   location: "Chicago, IL"
