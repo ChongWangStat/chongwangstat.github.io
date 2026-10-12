@@ -27,6 +27,9 @@ author_profile: true
           {% else %}
             {{ marathon.time }}
           {% endif %}
+          {% if marathon.search_url and marathon.search_url != "" %}
+            <a href="{{ marathon.search_url }}" target="_blank" rel="noopener noreferrer" style="font-size: 0.8em; white-space: nowrap;">(Search results)</a>
+          {% endif %}
         </td>
       </tr>
     {% endfor %}
