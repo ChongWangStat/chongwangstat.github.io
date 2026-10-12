@@ -14,8 +14,7 @@
   location: "Boston, MA"
   date: "April 20, 2026"
   time: "3:43:33"
-  result_url: ""
-  search_url: "https://registration.baa.org/2026/cf/Media/iframe_ResultsSearch.cfm?mode=advanced"
+  result_url: "https://www.baa.org/races/boston-marathon/results/?runner=837771"
 
 - race: "Chicago Marathon, 47th"
   location: "Chicago, IL"
