@@ -26,8 +26,7 @@
   location: "Boston, MA"
   date: "April 21, 2025"
   time: "3:26:51"
-  result_url: ""
-  search_url: "https://registration.baa.org/2025/cf/Media/iframe_ResultsSearch.cfm?mode=advanced"
+  result_url: "https://www.baa.org/races/boston-marathon/results/?runner=12284"
 
 - race: "Chicago Marathon, 46th"
   location: "Chicago, IL"
@@ -39,15 +38,13 @@
   location: "Boston, MA"
   date: "April 15, 2024"
   time: "3:21:56"
-  result_url: ""
-  search_url: "https://registration.baa.org/2024/cf/Media/iframe_ResultsSearch.cfm"
+  result_url: "https://www.baa.org/races/boston-marathon/results/?runner=35931"
 
 - race: "New York City Marathon"
   location: "New York City, NY"
   date: "November 5, 2023"
   time: "3:13:11"
-  result_url: ""
-  search_url: "https://results.nyrr.org/event/M2023/finishers"
+  result_url: "https://results.nyrr.org/event/M2023/result/3844"
 
 - race: "Chicago Marathon, 45th"
   location: "Chicago, IL"
